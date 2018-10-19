@@ -1,0 +1,6 @@
+.vscode/
+vendor/
+coverage/
+.DS_Store
+*.cache
+coverage.*
